@@ -1,1 +1,2 @@
 # MATLAB-Interactive-App
+A project created by me and a group of friends. We made an interactive app using matlab to aid our professor in teaching the concept of frequency response of the circuit to students. The user basically chooses values for a sample problem that we provided and then generates the solution for the said problem as the result. Apps like these can really help one in many ways such as teaching,revising concepts and etectra. As always open to comments on how to improve this. Ja ne!
